@@ -1,0 +1,225 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ManyButtons */ = {
+		activeExec = 0;
+		executables = (
+			633D726F141472B00014AB40 /* ManyButtons */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ManyButtonsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {882, 872}}";
+			sepNavSelRange = "{169, 31}";
+			sepNavVisRange = "{0, 208}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ManyButtonsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {882, 872}}";
+			sepNavSelRange = "{479, 0}";
+			sepNavVisRange = "{0, 749}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 633D726F141472B00014AB40 /* ManyButtons */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ManyButtons */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ManyButtons */,
+		);
+		codeSenseManager = 633D727C141472B20014AB40 /* Code sense */;
+		executables = (
+			633D726F141472B00014AB40 /* ManyButtons */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					704,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 336884400;
+			PBXWorkspaceStateSaveDate = 336884400;
+		};
+		perUserProjectItems = {
+			633D729D14147B060014AB40 /* PBXBookmark */ = 633D729D14147B060014AB40 /* PBXBookmark */;
+			633D729E14147B060014AB40 /* PlistBookmark */ = 633D729E14147B060014AB40 /* PlistBookmark */;
+			633D729F14147B060014AB40 /* PBXTextBookmark */ = 633D729F14147B060014AB40 /* PBXTextBookmark */;
+			633D72A014147B060014AB40 /* PBXTextBookmark */ = 633D72A014147B060014AB40 /* PBXTextBookmark */;
+			633D72A114147B060014AB40 /* PBXBookmark */ = 633D72A114147B060014AB40 /* PBXBookmark */;
+			633D72A214147B060014AB40 /* PlistBookmark */ = 633D72A214147B060014AB40 /* PlistBookmark */;
+			633D72A314147B060014AB40 /* PBXTextBookmark */ = 633D72A314147B060014AB40 /* PBXTextBookmark */;
+			633D72A414147B060014AB40 /* PBXTextBookmark */ = 633D72A414147B060014AB40 /* PBXTextBookmark */;
+			633D72A514147B060014AB40 /* PBXTextBookmark */ = 633D72A514147B060014AB40 /* PBXTextBookmark */;
+			633D72A614147B060014AB40 /* PBXTextBookmark */ = 633D72A614147B060014AB40 /* PBXTextBookmark */;
+			633D72A714147B060014AB40 /* PBXTextBookmark */ = 633D72A714147B060014AB40 /* PBXTextBookmark */;
+			633D72A814147B060014AB40 /* PBXTextBookmark */ = 633D72A814147B060014AB40 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 633D727B141472B20014AB40 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	633D726F141472B00014AB40 /* ManyButtons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ManyButtons;
+		sourceDirectories = (
+		);
+	};
+	633D727B141472B20014AB40 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	633D727C141472B20014AB40 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	633D729D14147B060014AB40 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 633D727D141472C70014AB40 /* iphone-balt-icon.png */;
+	};
+	633D729E14147B060014AB40 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ManyButtons-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/adriaan/Documents/XCODE Projects/ManyButtons/ManyButtons-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	633D729F14147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ManyButtonsViewController.h */;
+		name = "ManyButtonsViewController.h: 9";
+		rLen = 31;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	633D72A014147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ManyButtonsViewController.m */;
+		name = "ManyButtonsViewController.m: 7";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 0;
+	};
+	633D72A114147B060014AB40 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 633D727D141472C70014AB40 /* iphone-balt-icon.png */;
+	};
+	633D72A214147B060014AB40 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ManyButtons-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/adriaan/Documents/XCODE Projects/ManyButtons/ManyButtons-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	633D72A314147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ManyButtonsViewController.h */;
+		name = "ManyButtonsViewController.h: 5";
+		rLen = 0;
+		rLoc = 106;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	633D72A414147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ManyButtonsViewController.m */;
+		name = "ManyButtonsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1478;
+		vrLoc = 0;
+	};
+	633D72A514147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ManyButtonsViewController.h */;
+		name = "ManyButtonsViewController.h: 5";
+		rLen = 0;
+		rLoc = 106;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	633D72A614147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ManyButtonsViewController.m */;
+		name = "ManyButtonsViewController.m: 7";
+		rLen = 0;
+		rLoc = 351;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 0;
+	};
+	633D72A714147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ManyButtonsViewController.h */;
+		name = "ManyButtonsViewController.h: 9";
+		rLen = 31;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	633D72A814147B060014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ManyButtonsViewController.m */;
+		name = "ManyButtonsViewController.m: 17";
+		rLen = 0;
+		rLoc = 479;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 0;
+	};
+}

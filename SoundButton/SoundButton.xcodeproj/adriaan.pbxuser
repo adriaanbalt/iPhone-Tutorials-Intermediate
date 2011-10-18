@@ -1,0 +1,271 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SoundButtonAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 438}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 508}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SoundButtonAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 476}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 638}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SoundButton */ = {
+		activeExec = 0;
+		executables = (
+			63C756DF14103654003AAA00 /* SoundButton */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SoundButtonViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 438}}";
+			sepNavSelRange = "{139, 4}";
+			sepNavVisRange = "{0, 152}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SoundButtonViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 980}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{51, 785}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 63C756DF14103654003AAA00 /* SoundButton */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SoundButton */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SoundButton */,
+		);
+		codeSenseManager = 63C756E814103672003AAA00 /* Code sense */;
+		executables = (
+			63C756DF14103654003AAA00 /* SoundButton */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					695,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 336881286;
+			PBXWorkspaceStateSaveDate = 336881286;
+		};
+		perUserProjectItems = {
+			633D725F141472950014AB40 /* PBXTextBookmark */ = 633D725F141472950014AB40 /* PBXTextBookmark */;
+			633D7260141472950014AB40 /* PBXBookmark */ = 633D7260141472950014AB40 /* PBXBookmark */;
+			633D7261141472950014AB40 /* PlistBookmark */ = 633D7261141472950014AB40 /* PlistBookmark */;
+			633D7262141472950014AB40 /* PBXTextBookmark */ = 633D7262141472950014AB40 /* PBXTextBookmark */;
+			633D7263141472950014AB40 /* PBXTextBookmark */ = 633D7263141472950014AB40 /* PBXTextBookmark */;
+			633D7264141472950014AB40 /* PBXTextBookmark */ = 633D7264141472950014AB40 /* PBXTextBookmark */;
+			633D7265141472950014AB40 /* PBXTextBookmark */ = 633D7265141472950014AB40 /* PBXTextBookmark */;
+			633D7266141472950014AB40 /* PBXBookmark */ = 633D7266141472950014AB40 /* PBXBookmark */;
+			633D7267141472950014AB40 /* PlistBookmark */ = 633D7267141472950014AB40 /* PlistBookmark */;
+			633D7268141472950014AB40 /* PBXTextBookmark */ = 633D7268141472950014AB40 /* PBXTextBookmark */;
+			633D7269141472950014AB40 /* PBXTextBookmark */ = 633D7269141472950014AB40 /* PBXTextBookmark */;
+			633D726A141472950014AB40 /* PBXTextBookmark */ = 633D726A141472950014AB40 /* PBXTextBookmark */;
+			633D726B141472950014AB40 /* PBXTextBookmark */ = 633D726B141472950014AB40 /* PBXTextBookmark */;
+			63C757031410ACFD003AAA00 /* PBXTextBookmark */ = 63C757031410ACFD003AAA00 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 63C756E714103672003AAA00 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	633D725A141470450014AB40 /* iphone-balt-icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{58, 239}, {1405, 934}}";
+		};
+	};
+	633D725F141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SoundButtonViewController.m */;
+		name = "SoundButtonViewController.m: 11";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 51;
+	};
+	633D7260141472950014AB40 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 633D725A141470450014AB40 /* iphone-balt-icon.png */;
+	};
+	633D7261141472950014AB40 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SoundButton-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/adriaan/Documents/XCODE Projects/SoundButton/SoundButton-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	633D7262141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SoundButtonAppDelegate.h */;
+		name = "SoundButtonAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	633D7263141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SoundButtonAppDelegate.m */;
+		name = "SoundButtonAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	633D7264141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SoundButtonViewController.h */;
+		name = "SoundButtonViewController.h: 6";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	633D7265141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SoundButtonViewController.m */;
+		name = "SoundButtonViewController.m: 11";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 51;
+	};
+	633D7266141472950014AB40 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 633D725A141470450014AB40 /* iphone-balt-icon.png */;
+	};
+	633D7267141472950014AB40 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SoundButton-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/adriaan/Documents/XCODE Projects/SoundButton/SoundButton-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	633D7268141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SoundButtonViewController.h */;
+		name = "SoundButtonViewController.h: 6";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	633D7269141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SoundButtonAppDelegate.h */;
+		name = "SoundButtonAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	633D726A141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SoundButtonAppDelegate.m */;
+		name = "SoundButtonAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	633D726B141472950014AB40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SoundButtonViewController.h */;
+		name = "SoundButtonViewController.h: 9";
+		rLen = 4;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 152;
+		vrLoc = 0;
+	};
+	63C756DF14103654003AAA00 /* SoundButton */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SoundButton;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	63C756E714103672003AAA00 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	63C756E814103672003AAA00 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	63C757031410ACFD003AAA00 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SoundButtonViewController.h */;
+		name = "SoundButtonViewController.h: 6";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 312;
+		vrLoc = 0;
+	};
+	8D1107310486CEB800E47090 /* SoundButton-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{81, 218}, {1405, 934}}";
+		};
+	};
+}
